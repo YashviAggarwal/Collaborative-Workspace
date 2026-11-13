@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", system-ui, sans-serif;
+
+  --color-brand: #2563eb;
+  --color-brand-deep: #1d4ed8;
+  --color-brand-light: #eff6ff;
+
+  --color-pink: #ff2d8d;
+  --color-pink-soft: #fff0f7;
+
+  --color-ink: #111827;
+  --color-muted: #64748b;
+  --color-line: #e2e8f0;
+  --color-canvas: #f8fafc;
+}
